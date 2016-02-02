@@ -1,7 +1,5 @@
 import Ember from 'ember';
-
-
-/* globals _ */
+import _ from 'ember-fastboot-compatibility/utils/lodash';
 
 
 export default Ember.Route.extend({
